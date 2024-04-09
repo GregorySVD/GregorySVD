@@ -1,5 +1,5 @@
 
-<p>Welcome to my GitHub profile! </br> I'm Grzegorz, <em>aspiring Fullstack developer</em> from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Poznan, Poland</b>. 
+<h3>Welcome to my GitHub profile! </br> I'm Grzegorz, <em>aspiring Fullstack developer</em> from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Poznan, Poland</b>. 
 
 <h3>Things I code with</h3>
 <p>
