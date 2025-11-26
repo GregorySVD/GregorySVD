@@ -32,8 +32,5 @@
     <img alt="AWS" src="https://img.shields.io/badge/-AWS-F89C22?style=flat-square&logo=amazonaws&logoColor=white" />
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-080808?style=flat-square&logo=nextdotjs&logoColor=white" />
 </p>
-<h3>My stats</h3>
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=GregorySVD&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=GregorySVD&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 <h3>Where to find me</h3>
 <p><a href="https://github.com/GregorySVD" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/grzegorz-terenda" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
